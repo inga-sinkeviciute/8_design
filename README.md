@@ -42,7 +42,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com...
+    git clone [https://github.com...](https://github.com/inga-sinkeviciute/8_design.git)
     ```
 2. Install NPM packages
     ```sh
