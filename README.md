@@ -1,19 +1,13 @@
 ![LICENSE](https://img.shields.io/badge/license-ISC-blue.svg?style=flat-square)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 
-# Design
-
-_website design project_
-
-<br>
-
 ## 🌟 About
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at:
+Site published at: [github](https://inga-sinkeviciute.github.io/8_design/)
 
-Design: [Pet website landing page]([https://dribbble.com/shots/10172325/attachments/2114690?mode=media](https://www.figma.com/file/yPsEIIUrcWpHSU7beVXsSs/Petty--%F0%9F%90%B6----Pet-heating-solution-web-design-concept-(Community)?type=design&node-id=0-1&mode=design&t=38Zm68LH6pScQn3x-0))
+Design: [Pet website landing page](https://www.figma.com/file/yPsEIIUrcWpHSU7beVXsSs/Petty--%F0%9F%90%B6----Pet-heating-solution-web-design-concept-(Community)?type=design&node-id=1-11&mode=design&t=cxlI3nQYJRIjxwgS-0)
 
 ## 🎯 Project features/goals
 
@@ -42,7 +36,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone [https://github.com...](https://github.com/inga-sinkeviciute/8_design.git)
+    git clone https://github.com/inga-sinkeviciute/8_design.git
     ```
 2. Install NPM packages
     ```sh
